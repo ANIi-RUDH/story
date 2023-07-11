@@ -1,0 +1,13 @@
+git init
+ls
+ls -a
+git status
+git add chapter1.txt
+git status
+git commit -m"1st step in learning git"
+git log
+touch chapter2.text
+code chaapter2.txt
+
+
+these are the commands used to create a file and then adding them to git through VS code terminal
