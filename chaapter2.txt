@@ -10,5 +10,5 @@ touch chapter2.text
 code chaapter2.txt
 
 
-these are the commands used to create a file and then adding them to git through VS code terminal
-
+these are the commands used to create a file and then adding them to git through VS code terminal.
+#need to rename it to chapter2
